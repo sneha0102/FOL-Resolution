@@ -21,12 +21,18 @@ Use first-order	logic	resolution	to	solve	this	problem.
 Format	for	input.txt:	
 	
 <NQ = NUMBER OF QUERIES>
+
 <QUERY 1>
 ...
+
 <QUERY NQ>
+
 <NS = NUMBER OF GIVEN SENTENCES IN THE KNOWLEDGE BASE>
+
 <SENTENCE 1>
+
 ...
+
 <SENTENCE NS>
 	
 where	
