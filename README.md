@@ -9,10 +9,12 @@ disputes	between	Hollywood	celebrities	and	their	agents	or	producers,	you	are	ju
 Because	of	the	highly	sensitive	nature	of	the	cases	you	handle,	and	because	of	the	extremely	high	monetary amounts	 involved, you cannot trust any existing.You	thus decide	to create	your own,	 ultra-optimized inference	engine.	
 	
 The	 knowledge	 bases	 which	 you	 will	 create	 to	 handle	 each	 case	 will	contain	sentences	with	the	following	defined	operators:	
+
 NOT X
 X OR Y
 ~X
 X | Y
+
 Use first-order	logic	resolution	to	solve	this	problem.		
 	
 	
